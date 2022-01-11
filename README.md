@@ -10,3 +10,4 @@ This repository is linked to the article "Improving the accuracy of colorimetric
 ##### Upcoming Uploads:
 * an SD card flashed with the full project for the Raspberry Pi, including all hardware drivers and source-code for image processing
 * instructions for set-up from scratch 
+[![DOI](https://zenodo.org/badge/445100979.svg)](https://zenodo.org/badge/latestdoi/445100979)
