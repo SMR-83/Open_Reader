@@ -9,6 +9,7 @@ This repository is linked to the article "Improving the accuracy of colorimetric
 ### Device Assembly 
 * "smallBox.stl" is the file for the 3D printed box 
 * "calibrationShapes.docx" contains a printable template for the calibrators
+* "systemIntegrationScripts" contains all source-code 
 ##### Upcoming Uploads:
 * an SD card flashed with the full project for the Raspberry Pi, including all hardware drivers and source-code for image processing
 * instructions for set-up from scratch 
