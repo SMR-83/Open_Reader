@@ -1,4 +1,5 @@
-# Open-Reader [![DOI](https://zenodo.org/badge/445100979.svg)](https://zenodo.org/badge/latestdoi/445100979)
+# Open-Reader 
+[![DOI](https://zenodo.org/badge/445100979.svg)](https://zenodo.org/badge/latestdoi/445100979)
 This repository is linked to the article "Improving the accuracy of colorimetric detection in paper-based immunosensors with an open-source reader" at DOI: xxx
 ## Contents
 ### Image Database
