@@ -1,7 +1,7 @@
 # Open-Reader 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5837440.svg)](https://doi.org/10.5281/zenodo.5837440)
 
-This repository is linked to the article "Improving the accuracy of colorimetric detection in paper-based immunosensors with an open-source reader" at DOI: xxx
+This repository is linked to the article "Improving the accuracy of colorimetric detection in paper-based immunosensors with an open-source reader" at DOI:10.3390/s22051880
 ## Contents
 ### Image Database
 * the "imageDatasets" folder has photos of all of the calibrators and lateral flow tests, as well as original unedited images used in the figures.
